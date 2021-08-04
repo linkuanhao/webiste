@@ -69,3 +69,4 @@ deletedBtn.addEventListener('click', function () {
 
   render()
 })
+console.log(content.value)
